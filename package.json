@@ -2,6 +2,7 @@
   "name": "russian-roadmap",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://YOUR_USERNAME.github.io/russian-philosophy-roadmap",
   "type": "module",
   "scripts": {
     "dev": "vite",
